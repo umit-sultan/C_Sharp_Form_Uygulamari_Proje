@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Ucak_rezervazyon_sistemi\Ucak_rezervazyon_sistemi\bin\Debug\Ucak_rezervazyon_sistemi.exe.config
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Ucak_rezervazyon_sistemi\Ucak_rezervazyon_sistemi\bin\Debug\Ucak_rezervazyon_sistemi.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Ucak_rezervazyon_sistemi\Ucak_rezervazyon_sistemi\bin\Debug\Ucak_rezervazyon_sistemi.pdb
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Ucak_rezervazyon_sistemi\Ucak_rezervazyon_sistemi\obj\Debug\Ucak_rezervazyon_sistemi.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Ucak_rezervazyon_sistemi\Ucak_rezervazyon_sistemi\obj\Debug\Ucak_rezervazyon_sistemi.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Ucak_rezervazyon_sistemi\Ucak_rezervazyon_sistemi\obj\Debug\Ucak_rezervazyon_sistemi.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Ucak_rezervazyon_sistemi\Ucak_rezervazyon_sistemi\obj\Debug\Ucak_rezervazyon_sistemi.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Ucak_rezervazyon_sistemi\Ucak_rezervazyon_sistemi\obj\Debug\Ucak_rezervazyon_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Ucak_rezervazyon_sistemi\Ucak_rezervazyon_sistemi\obj\Debug\Ucak_rezervazyon_sistemi.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Ucak_rezervazyon_sistemi\Ucak_rezervazyon_sistemi\obj\Debug\Ucak_rezervazyon_sistemi.pdb

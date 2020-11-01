@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Arac_kullanimi\Arac_kullanimi\bin\Debug\Arac_kullanimi.exe.config
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Arac_kullanimi\Arac_kullanimi\bin\Debug\Arac_kullanimi.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Arac_kullanimi\Arac_kullanimi\bin\Debug\Arac_kullanimi.pdb
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Arac_kullanimi\Arac_kullanimi\obj\Debug\Arac_kullanimi.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Arac_kullanimi\Arac_kullanimi\obj\Debug\Arac_kullanimi.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Arac_kullanimi\Arac_kullanimi\obj\Debug\Arac_kullanimi.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Arac_kullanimi\Arac_kullanimi\obj\Debug\Arac_kullanimi.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Arac_kullanimi\Arac_kullanimi\obj\Debug\Arac_kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Arac_kullanimi\Arac_kullanimi\obj\Debug\Arac_kullanimi.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Arac_kullanimi\Arac_kullanimi\obj\Debug\Arac_kullanimi.pdb

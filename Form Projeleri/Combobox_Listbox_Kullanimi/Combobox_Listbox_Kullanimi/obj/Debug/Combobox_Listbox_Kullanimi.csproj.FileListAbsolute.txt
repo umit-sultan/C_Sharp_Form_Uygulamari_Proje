@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Combobox_Listbox_Kullanimi\Combobox_Listbox_Kullanimi\bin\Debug\Combobox_Listbox_Kullanimi.exe.config
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Combobox_Listbox_Kullanimi\Combobox_Listbox_Kullanimi\bin\Debug\Combobox_Listbox_Kullanimi.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Combobox_Listbox_Kullanimi\Combobox_Listbox_Kullanimi\bin\Debug\Combobox_Listbox_Kullanimi.pdb
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Combobox_Listbox_Kullanimi\Combobox_Listbox_Kullanimi\obj\Debug\Combobox_Listbox_Kullanimi.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Combobox_Listbox_Kullanimi\Combobox_Listbox_Kullanimi\obj\Debug\Combobox_Listbox_Kullanimi.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Combobox_Listbox_Kullanimi\Combobox_Listbox_Kullanimi\obj\Debug\Combobox_Listbox_Kullanimi.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Combobox_Listbox_Kullanimi\Combobox_Listbox_Kullanimi\obj\Debug\Combobox_Listbox_Kullanimi.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Combobox_Listbox_Kullanimi\Combobox_Listbox_Kullanimi\obj\Debug\Combobox_Listbox_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Combobox_Listbox_Kullanimi\Combobox_Listbox_Kullanimi\obj\Debug\Combobox_Listbox_Kullanimi.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Combobox_Listbox_Kullanimi\Combobox_Listbox_Kullanimi\obj\Debug\Combobox_Listbox_Kullanimi.pdb

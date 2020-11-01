@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Araç_Kullanimlari\Araç_Kullanimlari\bin\Debug\Araç_Kullanimlari.exe.config
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Araç_Kullanimlari\Araç_Kullanimlari\bin\Debug\Araç_Kullanimlari.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Araç_Kullanimlari\Araç_Kullanimlari\bin\Debug\Araç_Kullanimlari.pdb
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Label_textbox_kullanimi\Label_textbox_kullanimi\bin\Debug\Label_textbox_kullanimi.exe.config
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Label_textbox_kullanimi\Label_textbox_kullanimi\bin\Debug\Label_textbox_kullanimi.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Label_textbox_kullanimi\Label_textbox_kullanimi\bin\Debug\Label_textbox_kullanimi.pdb
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Label_textbox_kullanimi\Label_textbox_kullanimi\obj\Debug\Label_textbox_kullanimi.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Label_textbox_kullanimi\Label_textbox_kullanimi\obj\Debug\Label_textbox_kullanimi.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Label_textbox_kullanimi\Label_textbox_kullanimi\obj\Debug\Label_textbox_kullanimi.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Label_textbox_kullanimi\Label_textbox_kullanimi\obj\Debug\Label_textbox_kullanimi.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Label_textbox_kullanimi\Label_textbox_kullanimi\obj\Debug\Label_textbox_kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Label_textbox_kullanimi\Label_textbox_kullanimi\obj\Debug\Label_textbox_kullanimi.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Label_textbox_kullanimi\Label_textbox_kullanimi\obj\Debug\Label_textbox_kullanimi.pdb

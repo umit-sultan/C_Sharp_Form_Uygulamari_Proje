@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Pasta_Pisirme_Surec_Uygulamasi\Pasta_Pisirme_Surec_Uygulamasi\bin\Debug\Pasta_Pisirme_Surec_Uygulamasi.exe.config
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Pasta_Pisirme_Surec_Uygulamasi\Pasta_Pisirme_Surec_Uygulamasi\bin\Debug\Pasta_Pisirme_Surec_Uygulamasi.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Pasta_Pisirme_Surec_Uygulamasi\Pasta_Pisirme_Surec_Uygulamasi\bin\Debug\Pasta_Pisirme_Surec_Uygulamasi.pdb
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Pasta_Pisirme_Surec_Uygulamasi\Pasta_Pisirme_Surec_Uygulamasi\obj\Debug\Pasta_Pisirme_Surec_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Pasta_Pisirme_Surec_Uygulamasi\Pasta_Pisirme_Surec_Uygulamasi\obj\Debug\Pasta_Pisirme_Surec_Uygulamasi.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Pasta_Pisirme_Surec_Uygulamasi\Pasta_Pisirme_Surec_Uygulamasi\obj\Debug\Pasta_Pisirme_Surec_Uygulamasi.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Pasta_Pisirme_Surec_Uygulamasi\Pasta_Pisirme_Surec_Uygulamasi\obj\Debug\Pasta_Pisirme_Surec_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Pasta_Pisirme_Surec_Uygulamasi\Pasta_Pisirme_Surec_Uygulamasi\obj\Debug\Pasta_Pisirme_Surec_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Pasta_Pisirme_Surec_Uygulamasi\Pasta_Pisirme_Surec_Uygulamasi\obj\Debug\Pasta_Pisirme_Surec_Uygulamasi.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Pasta_Pisirme_Surec_Uygulamasi\Pasta_Pisirme_Surec_Uygulamasi\obj\Debug\Pasta_Pisirme_Surec_Uygulamasi.pdb

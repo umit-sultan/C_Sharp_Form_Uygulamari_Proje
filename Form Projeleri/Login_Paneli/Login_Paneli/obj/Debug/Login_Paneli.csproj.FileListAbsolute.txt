@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Login_Paneli\Login_Paneli\bin\Debug\Login_Paneli.exe.config
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Login_Paneli\Login_Paneli\bin\Debug\Login_Paneli.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Login_Paneli\Login_Paneli\bin\Debug\Login_Paneli.pdb
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Login_Paneli\Login_Paneli\obj\Debug\Login_Paneli.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Login_Paneli\Login_Paneli\obj\Debug\Login_Paneli.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Login_Paneli\Login_Paneli\obj\Debug\Login_Paneli.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Login_Paneli\Login_Paneli\obj\Debug\Login_Paneli.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Login_Paneli\Login_Paneli\obj\Debug\Login_Paneli.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Login_Paneli\Login_Paneli\obj\Debug\Login_Paneli.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Login_Paneli\Login_Paneli\obj\Debug\Login_Paneli.pdb

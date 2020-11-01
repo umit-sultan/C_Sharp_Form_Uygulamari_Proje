@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ucak_rezervazyon_sistemi", "Ucak_rezervazyon_sistemi\Ucak_rezervazyon_sistemi.csproj", "{EE13AEA6-B24B-4AA4-B8E3-CF6EE111DB3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE13AEA6-B24B-4AA4-B8E3-CF6EE111DB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE13AEA6-B24B-4AA4-B8E3-CF6EE111DB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE13AEA6-B24B-4AA4-B8E3-CF6EE111DB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE13AEA6-B24B-4AA4-B8E3-CF6EE111DB3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05C71C42-FF3B-43D1-B725-597A678B174E}
+	EndGlobalSection
+EndGlobal

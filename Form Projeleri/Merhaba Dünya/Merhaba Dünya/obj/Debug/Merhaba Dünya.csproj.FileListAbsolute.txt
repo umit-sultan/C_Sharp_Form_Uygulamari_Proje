@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Merhaba Dünya\Merhaba Dünya\bin\Debug\Merhaba Dünya.exe.config
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Merhaba Dünya\Merhaba Dünya\bin\Debug\Merhaba Dünya.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Merhaba Dünya\Merhaba Dünya\bin\Debug\Merhaba Dünya.pdb
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Merhaba Dünya\Merhaba Dünya\obj\Debug\Merhaba Dünya.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Merhaba Dünya\Merhaba Dünya\obj\Debug\Merhaba_Dünya.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Merhaba Dünya\Merhaba Dünya\obj\Debug\Merhaba_Dünya.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Merhaba Dünya\Merhaba Dünya\obj\Debug\Merhaba Dünya.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Merhaba Dünya\Merhaba Dünya\obj\Debug\Merhaba Dünya.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Merhaba Dünya\Merhaba Dünya\obj\Debug\Merhaba Dünya.exe
+C:\Users\user\OneDrive\Masaüstü\Udemy Projeler\Form Projeleri\Merhaba Dünya\Merhaba Dünya\obj\Debug\Merhaba Dünya.pdb
